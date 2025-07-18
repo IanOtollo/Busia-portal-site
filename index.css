@@ -55,9 +55,6 @@ nav a:hover {
   color: white;
   position: relative;
 }
-.main-content{
-    flex: 1;
-}
 
 .hero::before {
   content: "";
