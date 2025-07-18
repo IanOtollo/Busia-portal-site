@@ -57,6 +57,10 @@ nav a:hover {
   color: #006400;
 }
 
+.main-content{
+  flex :1;
+}
+
 .intro {
   text-align: center;
   margin-bottom: 30px;
